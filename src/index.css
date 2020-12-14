@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0d090;
+}
+
+.app {
+  width: 100vw;
+  height: 68vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./assets/background.png');
+  background-size: cover;
+  margin: 5.5rem 0;
+}
+
+.titleSection h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.proverbio-text {
+  width: 65vw;
+  text-align: justify;
+}
+
+.proverbio-text p {
+  margin: 2em 0;
+}
+
+.proverbio-text strong {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2em;
+}
+
+.buttonSection button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: sandybrown;
+  color: #FFF;
+  font-weight: bold;
+  text-shadow: 1px 1px black;
+  border-radius: 10px;
+}
