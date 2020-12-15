@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.647cd838.chunk.css",
-    "main.js": "/static/js/main.3ca93d36.chunk.js",
-    "main.js.map": "/static/js/main.3ca93d36.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c6ccffa0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c6ccffa0.js.map",
-    "static/js/2.df351486.chunk.js": "/static/js/2.df351486.chunk.js",
-    "static/js/2.df351486.chunk.js.map": "/static/js/2.df351486.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.647cd838.chunk.css.map": "/static/css/main.647cd838.chunk.css.map",
-    "static/js/2.df351486.chunk.js.LICENSE.txt": "/static/js/2.df351486.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/background.e83bcb09.png"
+    "main.css": "/aprenda-versiculos/static/css/main.91295f3f.chunk.css",
+    "main.js": "/aprenda-versiculos/static/js/main.3ca93d36.chunk.js",
+    "main.js.map": "/aprenda-versiculos/static/js/main.3ca93d36.chunk.js.map",
+    "runtime-main.js": "/aprenda-versiculos/static/js/runtime-main.24d5aafd.js",
+    "runtime-main.js.map": "/aprenda-versiculos/static/js/runtime-main.24d5aafd.js.map",
+    "static/js/2.df351486.chunk.js": "/aprenda-versiculos/static/js/2.df351486.chunk.js",
+    "static/js/2.df351486.chunk.js.map": "/aprenda-versiculos/static/js/2.df351486.chunk.js.map",
+    "index.html": "/aprenda-versiculos/index.html",
+    "static/css/main.91295f3f.chunk.css.map": "/aprenda-versiculos/static/css/main.91295f3f.chunk.css.map",
+    "static/js/2.df351486.chunk.js.LICENSE.txt": "/aprenda-versiculos/static/js/2.df351486.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/aprenda-versiculos/static/media/background.e83bcb09.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6ccffa0.js",
+    "static/js/runtime-main.24d5aafd.js",
     "static/js/2.df351486.chunk.js",
-    "static/css/main.647cd838.chunk.css",
+    "static/css/main.91295f3f.chunk.css",
     "static/js/main.3ca93d36.chunk.js"
   ]
 }
