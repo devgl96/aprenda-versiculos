@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/aprenda-versiculos/static/css/main.91295f3f.chunk.css",
-    "main.js": "/aprenda-versiculos/static/js/main.3ca93d36.chunk.js",
-    "main.js.map": "/aprenda-versiculos/static/js/main.3ca93d36.chunk.js.map",
+    "main.js": "/aprenda-versiculos/static/js/main.3d4a2cf8.chunk.js",
+    "main.js.map": "/aprenda-versiculos/static/js/main.3d4a2cf8.chunk.js.map",
     "runtime-main.js": "/aprenda-versiculos/static/js/runtime-main.24d5aafd.js",
     "runtime-main.js.map": "/aprenda-versiculos/static/js/runtime-main.24d5aafd.js.map",
-    "static/js/2.df351486.chunk.js": "/aprenda-versiculos/static/js/2.df351486.chunk.js",
-    "static/js/2.df351486.chunk.js.map": "/aprenda-versiculos/static/js/2.df351486.chunk.js.map",
+    "static/js/2.501fec3c.chunk.js": "/aprenda-versiculos/static/js/2.501fec3c.chunk.js",
+    "static/js/2.501fec3c.chunk.js.map": "/aprenda-versiculos/static/js/2.501fec3c.chunk.js.map",
     "index.html": "/aprenda-versiculos/index.html",
     "static/css/main.91295f3f.chunk.css.map": "/aprenda-versiculos/static/css/main.91295f3f.chunk.css.map",
-    "static/js/2.df351486.chunk.js.LICENSE.txt": "/aprenda-versiculos/static/js/2.df351486.chunk.js.LICENSE.txt",
+    "static/js/2.501fec3c.chunk.js.LICENSE.txt": "/aprenda-versiculos/static/js/2.501fec3c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/aprenda-versiculos/static/media/background.e83bcb09.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24d5aafd.js",
-    "static/js/2.df351486.chunk.js",
+    "static/js/2.501fec3c.chunk.js",
     "static/css/main.91295f3f.chunk.css",
-    "static/js/main.3ca93d36.chunk.js"
+    "static/js/main.3d4a2cf8.chunk.js"
   ]
 }
